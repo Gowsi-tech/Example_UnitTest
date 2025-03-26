@@ -12,5 +12,6 @@ namespace Example_UnitTest
     public class Calculator
     {
         public int Add(int a, int b) => a + b;
+        public int sub(int a, int b) => a - b;
     }
 }
